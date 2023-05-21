@@ -8,4 +8,9 @@ Python basics for Comp Neuro and ML
 
 
 ## Python specific libraries and dependencies
+- NumPy
+- Pandas
+- SciPy
+- Matplotlib
+- Seaborn
 - Pytorch
