@@ -1,7 +1,9 @@
 ## Teaching topics
 
 Python basics for Comp Neuro and ML
-- Data analysis basics
+- Data handling basics
+- Statistical analysis
+- Plotting
 - Probability distributions
 - Vectors and matrix operations in python
 - Intro to PyTorch
