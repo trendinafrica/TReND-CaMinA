@@ -1,0 +1,6 @@
+[submodule "notebooks/16-Friday/HopfieldNetworkTutorial"]
+	path = notebooks/16-Friday/HopfieldNetworkTutorial
+	url = https://github.com/TomGeorge1234/HopfieldNetworkTutorial
+[submodule "notebooks/22-Thursday/DeepLearningTutorial"]
+	path = notebooks/22-Thursday/DeepLearningTutorial
+	url = https://github.com/TomGeorge1234/DeepLearningTutorial
