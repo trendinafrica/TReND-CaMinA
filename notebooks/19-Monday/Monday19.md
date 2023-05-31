@@ -8,5 +8,4 @@ Machine Learning methods for neural data analysis
 
 
 ## Python specific libraries and dependencies
-- Dependency 1
-- Dependency 2
+- Scikit-learn
