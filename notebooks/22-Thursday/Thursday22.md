@@ -6,4 +6,5 @@ Deep Learning
 
 ## Python specific libraries and dependencies
 - Deep Learning Tutorial dependencies are downloaded within the jupyter notebook. 
+- Requirements: RatInABox, tqdm and PyTorch
 
