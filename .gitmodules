@@ -4,3 +4,6 @@
 [submodule "notebooks/22-Thursday/DeepLearningTutorial"]
 	path = notebooks/22-Thursday/DeepLearningTutorial
 	url = https://github.com/TomGeorge1234/DeepLearningTutorial
+[submodule "notebooks/16-Friday/ModellingSpatialRepresentations"]
+	path = notebooks/16-Friday/ModellingSpatialRepresentations
+	url = https://github.com/TomGeorge1234/ModellingSpatialRepresentations/
