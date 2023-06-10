@@ -8,4 +8,4 @@ Neural codes, spiking networks and plasticity
 
 ## Python specific libraries and dependencies
 - numpy, matplotlib, ipywidgets, tqdm, wget
-- RatInABox
+- RatInABox, pandas
