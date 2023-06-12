@@ -10,5 +10,6 @@ Neural codes, spiking networks and plasticity
 - numpy, matplotlib, ipywidgets, tqdm, wget
 - RatInABox, pandas
 
+Note if running this locally you will need to download these submodules which you can do by calling 
 
-TESTTESTEST
+```git submodule update --init```
