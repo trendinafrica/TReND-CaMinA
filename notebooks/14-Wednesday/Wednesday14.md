@@ -8,6 +8,6 @@ Computational Neuroscience intro
 
 
 ## Python specific libraries and dependencies
-- pip install ipympl 
+- !pip install ipympl 
 OR
 - conda install -c conda-forge ipympl
