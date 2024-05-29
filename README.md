@@ -1,4 +1,4 @@
-# <img src="images/logo_TReND.png" width=85> TReND school in Computational Neuroscience and Machine Learning Basics 
+# <img src="images/CaMinA_logo.png" width=85> TReND-CaMinA school in Computational Neuroscience and Machine Learning Basics 
 
 Repository containing the coding exercises for the school.
 
