@@ -1,6 +1,12 @@
-# <img src="images/logo_TReND.png" width=85> TReND school in Computational Neuroscience and Machine Learning Basics 
+# <img src="images/CaMinA_logo.png" width=85> TReND-CaMinA school in Computational Neuroscience and Machine Learning Basics 
 
-Repository containing the coding exercises for the school.
+### TReND-CaMinA is an intensive entry level course to teach young African students and researchers the basics of computational neuroscience and machine learning
+
+During this course, we give a basic introduction topics including neurobiology, systems neuroscience, biophysical neural models, recurrent neural networks, dynamical systems, linear algebra, machine learning methods for neural data analysis, Bayesian statistics, deep learning and reinforcement learning. We aim to provide African students and researchers with a solid foundation from which they can further expand their horizons. 
+
+For more information on the school please visit https://trendinafrica.org/trend-camina-computational-neuroscience/
+
+This repository containing the coding exercises for the school.
 
 Materials such as slides, datasets and other resources can be found in our [google drive](https://drive.google.com/drive/folders/1sfGHlsiTETrgL_KYOnjr5G7VTrxHuiiZ).
 
