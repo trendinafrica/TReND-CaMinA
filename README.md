@@ -6,9 +6,9 @@ During this course, we give a basic introduction topics including neurobiology, 
 
 For more information on the school please visit https://trendinafrica.org/trend-camina-computational-neuroscience/
 
-This repository containing the coding exercises for the school.
+This repository contains the coding exercises for the school.
 
-Materials such as slides, datasets and other resources can be found in our [google drive](https://drive.google.com/drive/folders/1sfGHlsiTETrgL_KYOnjr5G7VTrxHuiiZ).
+Materials such as slides, datasets and other resources can be found in our [google drive](https://drive.google.com/drive/folders/1hEuJtBv4-z3vqaoePIumXkJx0cWdzMx5?usp=drive_link).
 
 
 ### **Notice! Remember to sync your fork**
