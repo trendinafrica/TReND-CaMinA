@@ -5,8 +5,7 @@ Allen Tutorial
 - Plotting and basics analysis
 
 ## Python specific libraries and dependencies
-- NumPy
-- Pandas
-- SciPy
-- Matplotlib
-- Seaborn
+Write here specific packages that need to be installed, e.g
+- !pip install ipympl 
+OR
+- conda install -c conda-forge ipympl
