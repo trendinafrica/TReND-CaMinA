@@ -11,4 +11,3 @@ Python basics for Comp Neuro and ML
 - SciPy
 - Matplotlib
 - Seaborn
-- Pytorch
