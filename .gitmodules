@@ -1,9 +1,9 @@
-[submodule "notebooks/16-Friday/HopfieldNetworkTutorial"]
-	path = notebooks/16-Friday/HopfieldNetworkTutorial
-	url = https://github.com/TomGeorge1234/HopfieldNetworkTutorial
-[submodule "notebooks/22-Thursday/DeepLearningTutorial"]
-	path = notebooks/22-Thursday/DeepLearningTutorial
-	url = https://github.com/TomGeorge1234/DeepLearningTutorial
-[submodule "notebooks/16-Friday/ModellingSpatialRepresentations"]
-	path = notebooks/16-Friday/ModellingSpatialRepresentations
+[submodule "notebooks/Rwanda24/15-Mon-NeuralCodesHopfield/HopfieldNetworkTutorial"]
+	path = notebooks/Rwanda24/15-Mon-NeuralCodesHopfield/HopfieldNetworkTutorial
+	url = https://github.com/TomGeorge1234/HopfieldNetworkTutorial/
+[submodule "notebooks/Rwanda24/15-Mon-NeuralCodesHopfield/ModellingSpatialRepresentations"]
+	path = notebooks/Rwanda24/15-Mon-NeuralCodesHopfield/ModellingSpatialRepresentations
 	url = https://github.com/TomGeorge1234/ModellingSpatialRepresentations/
+[submodule "notebooks/Rwanda24/19-Fri-BackProp/DeepLearningTutorial"]
+	path = notebooks/Rwanda24/19-Fri-BackProp/DeepLearningTutorial
+	url = https://github.com/TomGeorge1234/DeepLearningTutorial
