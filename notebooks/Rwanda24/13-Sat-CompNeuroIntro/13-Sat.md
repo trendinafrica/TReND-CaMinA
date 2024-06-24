@@ -9,5 +9,5 @@ Computational Neuroscience intro
 
 ## Python specific libraries and dependencies
 Write here specific packages that need to be installed, e.g
-- !pip install ipympl
-- conda install -c conda-forge ipympl
+- NumPy (conda install numpy)
+- Matplotlib (conda install matplotlib)
