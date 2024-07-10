@@ -2,9 +2,10 @@
 
 Allen Tutorial
 - Allen datasets handling
-- Plotting and basics analysis
+- Plotting and basic analysis
+- Decoding neural responses with scikit-learn
 
 ## Python specific libraries and dependencies
-Write here specific packages that need to be installed, e.g
-- !pip install ipympl
-- conda install -c conda-forge ipympl
+(If running locally)
+- pip install allensdk, scikit-learn
+- Configure notebook setup cell to connect to 
